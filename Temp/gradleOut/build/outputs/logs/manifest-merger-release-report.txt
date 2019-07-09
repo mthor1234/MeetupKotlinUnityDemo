@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9d94566aa330c5db97f0374a17115f0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a51348d5fe02b83453cb662188617c31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4a51ac2c75a57a798701085e54337c93/AndroidManifest.xml:17:1-22:12
+MERGED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dc20d3d035336a7d9fa3639cadaa0f09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4c9eca40457a807eddb51d5219b6c452/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/727e065701d43595f1b4f6e1c6ffc9df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b103f26abc18183a0195e91d6d60573c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eea92bae90649cac313048fcf0b376aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/29dafa22ec35c636952d07f6d5a2a706/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6563cc860e61c9118e297e79dfad2ed8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/435a02152cca265295f7e530e10586a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/847f524317d17cc7bb1e4bfb96b1e55a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/65b85f8257b428a46ff2189d4fce56d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b18bacaaf6a298b3f0241983b2a880f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9514970119c64cb58699039855e70895/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ffa36759da6e01c88a6187162001fef9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2bf72df0ccda475dcb0aee6ec654bf43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/81a6493da45158ceaced3c369a408879/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c90f9ae36fcffe30197ae1b4d779f53a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c98066fe23bd27fbc8e5ac07daa24fe0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d6e30833ec6628692e9deaef95763526/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f225e27e46b925eeb67cd497ed325551/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e2d6002b5111f892c3362dbd65fa2187/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fb7782544c237c1be64af3ed26292d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7197a9b87dcebbb6118fccbe456eff0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2d49fd3e278ad74fc0586c1bf4c391d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/903f073c37ca0f5ce170a0bc7d688665/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b4d42248931f8a560cd21e4619572694/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a98734a58febbcb9b656cb1bf2377c94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/86cb43afb0fa56c21c974f1596d33d8b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8f3563c35d96372ba2f31d59c624d7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9343e68fc149e65c44c1104f979e8d65/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-95
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:96-142
+	android:versionCode
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:2:143-183
+supports-screens
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [com.android.support:design:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9d94566aa330c5db97f0374a17115f0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9d94566aa330c5db97f0374a17115f0/AndroidManifest.xml:22:5-20
+MERGED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:11:5-24:19
+MERGED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:11:5-24:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c98066fe23bd27fbc8e5ac07daa24fe0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c98066fe23bd27fbc8e5ac07daa24fe0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d6e30833ec6628692e9deaef95763526/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d6e30833ec6628692e9deaef95763526/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c98066fe23bd27fbc8e5ac07daa24fe0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-88
+	android:required
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:61-85
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-99
+	android:required
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:72-96
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-108
+	android:required
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:81-105
+	android:name
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-80
+uses-sdk
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9d94566aa330c5db97f0374a17115f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9d94566aa330c5db97f0374a17115f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a51348d5fe02b83453cb662188617c31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a51348d5fe02b83453cb662188617c31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4a51ac2c75a57a798701085e54337c93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4a51ac2c75a57a798701085e54337c93/AndroidManifest.xml:20:5-44
+MERGED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:7:5-9:41
+MERGED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dc20d3d035336a7d9fa3639cadaa0f09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dc20d3d035336a7d9fa3639cadaa0f09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4c9eca40457a807eddb51d5219b6c452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4c9eca40457a807eddb51d5219b6c452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/727e065701d43595f1b4f6e1c6ffc9df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/727e065701d43595f1b4f6e1c6ffc9df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b103f26abc18183a0195e91d6d60573c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b103f26abc18183a0195e91d6d60573c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eea92bae90649cac313048fcf0b376aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eea92bae90649cac313048fcf0b376aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/29dafa22ec35c636952d07f6d5a2a706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/29dafa22ec35c636952d07f6d5a2a706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6563cc860e61c9118e297e79dfad2ed8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6563cc860e61c9118e297e79dfad2ed8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/435a02152cca265295f7e530e10586a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/435a02152cca265295f7e530e10586a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/847f524317d17cc7bb1e4bfb96b1e55a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/847f524317d17cc7bb1e4bfb96b1e55a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/65b85f8257b428a46ff2189d4fce56d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/65b85f8257b428a46ff2189d4fce56d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b18bacaaf6a298b3f0241983b2a880f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b18bacaaf6a298b3f0241983b2a880f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9514970119c64cb58699039855e70895/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9514970119c64cb58699039855e70895/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ffa36759da6e01c88a6187162001fef9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ffa36759da6e01c88a6187162001fef9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2bf72df0ccda475dcb0aee6ec654bf43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2bf72df0ccda475dcb0aee6ec654bf43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/81a6493da45158ceaced3c369a408879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/81a6493da45158ceaced3c369a408879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c90f9ae36fcffe30197ae1b4d779f53a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c90f9ae36fcffe30197ae1b4d779f53a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c98066fe23bd27fbc8e5ac07daa24fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c98066fe23bd27fbc8e5ac07daa24fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d6e30833ec6628692e9deaef95763526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d6e30833ec6628692e9deaef95763526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f225e27e46b925eeb67cd497ed325551/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f225e27e46b925eeb67cd497ed325551/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e2d6002b5111f892c3362dbd65fa2187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e2d6002b5111f892c3362dbd65fa2187/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fb7782544c237c1be64af3ed26292d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4fb7782544c237c1be64af3ed26292d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7197a9b87dcebbb6118fccbe456eff0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7197a9b87dcebbb6118fccbe456eff0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2d49fd3e278ad74fc0586c1bf4c391d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2d49fd3e278ad74fc0586c1bf4c391d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/903f073c37ca0f5ce170a0bc7d688665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/903f073c37ca0f5ce170a0bc7d688665/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b4d42248931f8a560cd21e4619572694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b4d42248931f8a560cd21e4619572694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a98734a58febbcb9b656cb1bf2377c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a98734a58febbcb9b656cb1bf2377c94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/86cb43afb0fa56c21c974f1596d33d8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/86cb43afb0fa56c21c974f1596d33d8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8f3563c35d96372ba2f31d59c624d7d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8f3563c35d96372ba2f31d59c624d7d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9343e68fc149e65c44c1104f979e8d65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9343e68fc149e65c44c1104f979e8d65/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/mitchellthornton/UnityProjects/UnityKotlinDemo/Temp/gradleOut/src/main/AndroidManifest.xml
+activity#com.example.kotlinuntiy.MainActivity
+ADDED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:20:9-23:20
+	android:theme
+		ADDED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from [:kotlinuntiy:] /Users/mitchellthornton/.gradle/caches/transforms-1/files-1.1/kotlinuntiy.aar/2860d6c8d687abf30487d51c8e0cc207/AndroidManifest.xml:21:13-64

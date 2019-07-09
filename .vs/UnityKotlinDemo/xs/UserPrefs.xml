@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E6EB8DB0-5292-CF87-3D0E-52BE56018B26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Native/AndroidDemo.cs">
+    <Files>
+      <File FileName="Assets/Native/AndroidDemo.cs" Line="30" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
